@@ -18,4 +18,32 @@ An FPGA mainly consists of:
 - DSP Blocks
 - I/O Blocks
 - Clock Tiles: 
-
+![Image1](Images/Picture1.png)
+![Image2](Images/Picture2.png)
+![Image3](Images/Picture3.png)
+![Image4](Images/Picture4.png)
+![Image5](Images/Picture5.png)
+![Image6](Images/Picture6.png)
+![Image7](Images/Picture7.png)
+![Image8](Images/Picture8.png)
+![Image9](Images/Picture9.png)
+![Image10](Images/Picture10.png)
+![Image11](Images/Picture11.png)
+![Image12](Images/Picture12.png)
+![Image13](Images/Picture13.png)
+![Image14](Images/Picture14.png)
+![Image15](Images/Picture15.png)
+![Image16](Images/Picture16.png)
+![Image17](Images/Picture17.png)
+![Image18](Images/Picture18.png)
+![Image19](Images/Picture19.png)'
+![Image20](Images/Picture20.png)
+![Image21](Images/Picture21.png)
+![Image22](Images/Picture22.png)
+![Image23](Images/Picture23.png)
+![Image24](Images/Picture24.png)
+![Image25](Images/Picture25.png)
+![Image26](Images/Picture26.png)
+![Image27](Images/Picture27.png)
+![Image28](Images/Picture28.png)
+![Image29](Images/Picture29.png)
